@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "lifod",
+    "packageName": "org.soframel.lifod",
+    "packageFolder": "org/soframel/lifod",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "a6a2a8d18a353ea6120b38b57230164ae7fe4c1f",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}

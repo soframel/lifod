@@ -1,0 +1,17 @@
+{
+    "main": {
+        "title": "LifOD",
+        "subtitle": "LifOd signifie \"Lifespan Of Devices\", la durée de vie des appareils: ce site catalogue la durée de vie moyenne des appareils, de manière à pouvoir montrer des statistiques.", 
+        "subsubtitle": "N'hésitez pas à encoder chaque appareil qui tombe en panne, de manière à ce que tout le monde puisse bénéficier de statistiques. Parlez de ce site à un maximum de personnes, pour que les statistiques soient plus parlantes !",
+        "logged": {
+            "message": "Vous êtes loggé en tant que \"{{username}}\"."
+        },
+        "visualize": "Si vous voulez vérifier la durée de vie moyenne par appareil ou type d'appareil: ",
+        "visualizeLink": "Montrer la durée de vie",
+        "record": "Si vous voulez encoder un appareil, ou afficher les appareils que vous avez déjà encodés: ",
+        "recordLink": "Vos appareils",
+        "statistics": "Statistiques: ",
+        "numberOfDevices": "Nombre d'appareils: ",
+        "numberOfUsers": "Nombre d'utilisateurs: "
+    }
+}

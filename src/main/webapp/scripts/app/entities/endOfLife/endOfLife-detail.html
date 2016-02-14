@@ -1,0 +1,79 @@
+
+<div>
+    <h2><span translate="lifodApp.endOfLife.detail.title">EndOfLife</span>: {{endOfLife.brand}} {{endOfLife.product}} {{endOfLife.productVersion}}</h2>
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th translate="entity.detail.field">Field</th>
+                <th translate="entity.detail.value">Value</th>
+            </tr>
+            </thead>
+            <tbody>
+            <!-- <tr>
+                <td>
+                    <span translate="lifodApp.endOfLife.user">User</span>
+                </td>
+                <td>
+                    <span class="form-control-static">{{endOfLife.user}}</span>
+                </td>
+            </tr> -->
+            <tr>
+                <td>
+                    <span translate="lifodApp.endOfLife.brand">Brand</span>
+                </td>
+                <td>
+                    <span class="form-control-static">{{endOfLife.brand}}</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span translate="lifodApp.endOfLife.product">Product</span>
+                </td>
+                <td>
+                    <span class="form-control-static">{{endOfLife.product}}</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span translate="lifodApp.endOfLife.productVersion">ProductVersion</span>
+                </td>
+                <td>
+                    <span class="form-control-static">{{endOfLife.productVersion}}</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span translate="lifodApp.endOfLife.buyingDate">BuyingDate</span>
+                </td>
+                <td>
+                    <span class="form-control-static">{{endOfLife.buyingDate | date:'mediumDate'}}</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span translate="lifodApp.endOfLife.endOfLifeDate">EndOfLifeDate</span>
+                </td>
+                <td>
+                    <span class="form-control-static">{{endOfLife.endOfLifeDate | date:'mediumDate'}}</span>
+                </td>
+            </tr>
+            
+            <tr>
+                <td>
+                    <span translate="lifodApp.endOfLife.reason">Reason</span>
+                </td>
+                <td>
+                    <span class="form-control-static">{{endOfLife.reason}}</span>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <button type="submit"
+            onclick="window.history.back()"
+            class="btn btn-info">
+        <span class="glyphicon glyphicon-arrow-left"></span>&nbsp;<span translate="entity.action.back"> Back</span>
+    </button>
+</div>

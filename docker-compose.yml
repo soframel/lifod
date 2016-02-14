@@ -1,0 +1,8 @@
+jhipster-dev-mongodb:
+  container_name: lifod-dev-mongodb
+  image: mongo
+  # volumes:
+  # - ~/volumes/jhipster/lifod/dev-mongodb/:/data/db/
+  ports:
+  - "27017:27017"
+

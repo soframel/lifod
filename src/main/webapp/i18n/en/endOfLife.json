@@ -1,0 +1,27 @@
+{
+    "lifodApp": {
+        "endOfLife" : {
+            "home": {
+                "title": "Your Broken Devices",
+                "createLabel": "Add a device",
+                "createOrEditLabel": "Create or edit a device"
+            },
+            "created": "A new device is created with identifier {{ param }}",
+            "updated": "A device is updated with identifier {{ param }}",
+            "deleted": "A device is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete device {{ id }}?"
+            },
+            "detail": {
+                "title": "Device"
+            },
+            "user": "User",
+            "endOfLifeDate": "Date of failure",
+            "buyingDate": "Date of production/buying",
+            "product": "Product name",
+            "productVersion": "Product version",
+            "brand": "Brand",
+            "reason": "Failure reason"
+        }
+    }
+}

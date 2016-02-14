@@ -1,0 +1,42 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "user",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 2,
+            "fieldName": "endOfLifeDate",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldId": 3,
+            "fieldName": "buyingDate",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldId": 4,
+            "fieldName": "product",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 5,
+            "fieldName": "productVersion",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 6,
+            "fieldName": "brand",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 7,
+            "fieldName": "reason",
+            "fieldType": "String"
+        }
+    ],
+    "dto": "no",
+    "pagination": "pager"
+}

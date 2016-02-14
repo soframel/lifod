@@ -1,0 +1,17 @@
+{
+    "main": {
+        "title": "LifOD",
+        "subtitle": "LifOd stands for \"Lifespan Of Devices\": it catalogues the average lifespan of devices, in order to show statistics. ",
+        "subsubtitle": "Please enter whenever a device you own fails, so that everybody can benefit from statistics. Talk about this site to a maximum number of persons, so that the statistics make more sense !",
+        "logged": {
+            "message": "You are logged in as user \"{{username}}\"."
+        },
+        "visualize": "If you want to check the lifespan of a device or category of device: ",
+        "visualizeLink": "Show lifespans",
+        "record": "If you want to enter a device, or display the devices you already entered: ",
+        "recordLink": "Your Devices",
+        "statistics": "Statistics: ",
+        "numberOfDevices": "Number of devices: ",
+        "numberOfUsers": "Number of users: "
+    }
+}

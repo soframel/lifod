@@ -1,0 +1,25 @@
+{
+    "lifodApp": {
+        "endOfLife" : {
+            "home": {
+                "title": "Appareils",
+                "createLabel": "Créer un nouvel appareil",
+                "createOrEditLabel": "Créer ou éditer un appareil"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer l'appareil {{ id }} ?"
+            },
+            "detail": {
+                "title": "Appareil"
+            },
+            "user": "Utilisateur",
+            "endOfLifeDate": "Date de mise hors d'usage",
+            "buyingDate": "Date d'achat",
+            "product": "Produit",
+            "productVersion": "Version",
+            "brand": "Marque",
+            "reason": "Cause"
+        }
+    }
+}
+
